@@ -1,5 +1,3 @@
-Here is a small and concise README for your Task 2 GitHub repository:
-
 Churn Prediction System (FUTURE_ML_02)
 This project implemented a Machine Learning model to predict customer attrition using the Telco Customer Churn dataset. The goal was to identify high-risk customers for targeted retention efforts.
 
